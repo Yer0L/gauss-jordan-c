@@ -1,3 +1,13 @@
+CALCUATOR: RESOLUTION OF EQUATION SYSTEMS BY GAUS-JORDAN (MATRICES)
+
+If you get an inconclusive result change the rows manually.
+Basic knowledge of matrices is recommended to interpret results.
+Enter the data in order, all the "x's" in a single column and all the "y's" in its column.
+If there is no variable on that line, enter zero as the variable value.
+enter the rows in such a way that there are no zeros on the major diagonal.
+
+* gaus-jordan-process shows each step-by-step resolution process *
+------------------------------------------------------------------------------------------------
 CALCUADORA: RESOLUCION DE SISTEMAS DE ECUACIONES POR GAUS-JORDAN (MATRICES)
 
 Si da como resultado un resultado inconcluso cambiar las filas de forma manual.
