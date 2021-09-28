@@ -5,3 +5,5 @@ Se recomienda tener conocimientos basicos sobre matrices para interpretar result
 Ingresar los datos en orden, todas las "x" en una sola columna y todas las "y" en su columna.
 Si en esa linea no hay  una variable, ingresar cero como valor de variable.
 ingresar las filas de tal manera que en la diagonal mayor no haya ceros.
+
+*gaus-jordan-process muestra cada paso a paso el proceso de resolucion*
